@@ -1,11 +1,7 @@
-Setup
+Setup: 
 Follow the steps below to run the project locally on your machine.
 
-📦 1. Clone the Repository
-
-git clone https://github.com/GurmanpreetKaur23/GrubZap.git
-cd GrubZap
-🌐 2. Setup Frontend (Client)
+🌐 1. Setup Frontend (Client)
 
 cd client
 npm install
