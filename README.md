@@ -19,14 +19,8 @@ API Server: http://localhost:5000
 
 Handles: Authentication, Orders, Restaurant Data
 
-🔐 Backend Environment Setup Create a .env file inside /server with the following:
-
+a) Backend Environment Setup Create a .env file inside /server with the following:
 PORT=5000
 DATABASE_URL=your_database_url_here
 JWT_SECRET=your_jwt_secret_here
-🧑‍💼 4. Setup Admin Panel
 
-cd ../admin
-npm install
-npm run dev
-Admin UI: http://localhost:5174 
