@@ -28,8 +28,6 @@ GrubZap is designed to provide a seamless food ordering experience by combining 
 ├── server/       # Backend APIs and database integration
 └── admin/        # Admin dashboard for management
 Installation and Setup
-1. Clone the Repository
-git clone https://github.com/GurmanpreetKaur23/GrubZap.git
 cd GrubZap
 2. Setup Frontend
 cd client
